@@ -1,0 +1,53 @@
+.search-bar {
+	margin:10px;
+	text-align:left;
+	background-color:#928299;
+	width:1150px;
+	margin-left:1%;
+}
+
+
+.search-bar input {
+	margin:10px;
+	width:50%;
+	margin-left:10px;
+}
+
+.steps{
+	 height:20%;
+	text-align:left;
+	background-color:#d7dee8;
+	width:850px;
+	border:solid;
+}
+
+.steps button {
+	margin:1ppx;
+  margin-left:1%;
+  height:1%;
+
+}
+
+
+.bio-details {
+	background-color:white;
+	text-align:right;
+	border: solid;	 
+}
+
+.stored-data{
+	margin-left: 90%;
+	width:10%;
+	 height:15%;
+	background-color:white;
+	border:solid;
+}
+
+.list-group-item{
+	cursor:pointer;
+
+}
+
+.list-group-item:hover {
+	background-color: #eee;
+}
