@@ -23,7 +23,7 @@ const SystemDetails = () => {
                     <div style={{'margin-left': '15px', 'margin-right': '15px'}}>
                         <Form horizontal>
                             <FormGroup controlId="equipmentName">
-                                <ControlLabel>Equipment Name</ControlLabel>
+                                <ControlLabel>Frequency</ControlLabel>
                                 <DropdownButton
                                     componentClass={InputGroup.Button}
                                     id="input-dropdown-addon"
