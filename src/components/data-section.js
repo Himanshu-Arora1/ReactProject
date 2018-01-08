@@ -14,7 +14,7 @@ class Datasection extends React.Component {
         return (
             <Grid>
                 <Row className="show-grid">
-                    <Col xs={8}>
+                    <Col xs={7}>
                         <Biodetails/>
                     </Col>
                     <Col xs={4}>

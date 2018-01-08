@@ -32,7 +32,7 @@ const Sidebar = () => {
                         <li ><a href="#">Section 7 <span style={{'font-size':'16px;'}} className="pull-right hidden-xs showopacity glyphicon glyphicon-hourglass"></span></a></li>
                         <li ><a href="#">Section 8 <span style={{'font-size':'16px;'}} className="pull-right hidden-xs showopacity glyphicon glyphicon-floppy-open"></span></a></li>
                         <li ><a href="#">Section 9 <span style={{'font-size':'16px;'}} className="pull-right hidden-xs showopacity glyphicon glyphicon-collapse-up"></span></a></li>
-                        <li ><a href="#">Section 10 <span style={{'font-size':'16px;'}} className="pull-right hidden-xs showopacity glyphicon glyphicon-floppy-heart-empty"></span></a></li>
+                        <li ><a href="#">Section 10 <span style={{'font-size':'16px;'}} className="pull-right hidden-xs showopacity glyphicon glyphicon-heart-empty"></span></a></li>
                     </ul>
                 </div>
             </div>
