@@ -1,22 +1,14 @@
 import React,{Component} from 'react';
 import ReactDOM from 'react-dom';
-import Steps from './components/Steps'
-import SearchBar from './components/searchbar'
-import StoredData from './components/storeddata'
 import Navbar from './components/Navbar'
+import MainContainer from './components/main-container';
 
 class App extends Component {
 	render () {
 		return (
 			<div>
 				<Navbar/>
-				{/*<SearchBar/>*/}
-					<div>
-
-						<Steps />
-						<StoredData />
-					</div>
-
+				<MainContainer/>
 			</div>
 		)
 	}
@@ -24,5 +16,5 @@ class App extends Component {
 
 ReactDOM.render(
 	<App />,
-	  document.querySelector('.container'));
+	  document.querySelector('.app'));
 
