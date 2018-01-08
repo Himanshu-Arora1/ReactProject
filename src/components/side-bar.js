@@ -23,15 +23,6 @@ const Sidebar = () => {
                             </span>
                             </a>
                         </li>
-                        <li className="active">
-                            <a href="#">Home
-                                <span
-                                    style={{'font-size':'16px;'}}
-                                    className="pull-right hidden-xs showopacity glyphicon glyphicon-home">
-
-                            </span>
-                            </a>
-                        </li>
                         <li ><a href="#">Section 1<span style={{'font-size':'16px;'}} className="pull-right hidden-xs showopacity glyphicon glyphicon-th-list"></span></a></li>
                         <li ><a href="#">Section 2 <span style={{'font-size':'16px;'}} className="pull-right hidden-xs showopacity glyphicon glyphicon-tags"></span></a></li>
                         <li ><a href="#">Section 3 <span style={{'font-size':'16px;'}} className="pull-right hidden-xs showopacity glyphicon glyphicon-film"></span></a></li>
