@@ -1,16 +1,7 @@
-.search-bar {
-	margin:10px;
-	text-align:left;
-	background-color:#928299;
-	width:1150px;
-	margin-left:1%;
-}
-
-
-.search-bar input {
-	margin:10px;
-	width:50%;
-	margin-left:10px;
+/* navbar */
+.navbar-default {
+	background-color: #eeeeee;
+	border-color: #E7E7E7;
 }
 
 .steps{
